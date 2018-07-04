@@ -1,2 +1,1 @@
-# code-professional
-code for hacker rank solution
+#Huong dan clone project
